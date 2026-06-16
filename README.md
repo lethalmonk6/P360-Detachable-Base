@@ -6,8 +6,10 @@ The iL Quick Release Assembly can be purchased from the following 2 stores:<br/>
 [Arcade Express - EU (quick release assembly only)](https://www.arcadexpress.com/en/joysticks-accesories/348-1131-the-link-quick-release-shaft-joystick-for-mag-stick-eurojoystick-il.html)<br/>
 [Arcade Renovations - US (quick release assembly and entire joystick)](https://www.arcaderenovations.com/industrias-lorenzo-eurojoystick-8-way-detachable-shaft.html) 
 <br/><br/>
-This is intended for use in wood top panels, as the wood panel spacer is integrated into the shaft.
 
+# Notes
+This is intended for use in wood top panels, as the wood panel spacer is integrated into the shaft.
+Requires a 30mm hole for the lever.
 
 # Fabrication/Ordering
 Stainless Steel 304 recommended<br/>

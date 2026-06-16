@@ -8,7 +8,8 @@ The iL Quick Release Assembly can be purchased from the following 2 stores:<br/>
 
 # Notes
 This is intended for use in wood top panels, as the wood panel spacer is integrated into the shaft.<br/>
-Requires a 30mm hole for the lever, the iL detachable upper shaft diameter is larger than the stock P360 shaft.
+Requires a 30mm diameter hole for the lever, the iL detachable upper shaft diameter is larger than the stock P360 shaft.<br/>
+Also requires a dustwasher with at least a 17mm hole diameter.
 
 # Fabrication/Ordering
 Stainless Steel 304 recommended<br/>

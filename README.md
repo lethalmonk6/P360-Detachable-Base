@@ -1,6 +1,6 @@
 # P360-Detachable-Base
 STEP file for CNC fabrication of a detachable base for the Wico P360 Joystick. To be used with the quick release upper for the iL Eurojoystick.<br/><br/>
-[EX Gear Solid Matte Battop from ArcadeShock](https://arcadeshock.com/products/ex-gear-solid-battops-choose-color) - closely matches the shape of the original Wico P360 handle when used with thie quick release iL upper.<br/>
+[EX Gear Solid Matte Battop from ArcadeShock](https://arcadeshock.com/products/ex-gear-solid-battops-choose-color) - closely matches the shape of the original Wico P360 handle when used with the quick release iL upper.<br/>
 
 The iL Quick Release Assembly can be purchased from the following 2 stores:<br/>
 [Arcade Express - EU (quick release assembly only)](https://www.arcadexpress.com/en/joysticks-accesories/348-1131-the-link-quick-release-shaft-joystick-for-mag-stick-eurojoystick-il.html)<br/>

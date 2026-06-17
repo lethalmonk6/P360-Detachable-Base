@@ -12,7 +12,7 @@ Requires a 30mm diameter hole for the lever, the iL detachable upper shaft diame
 Also requires a dustwasher with at least a 17mm hole diameter.
 
 # Fabrication/Ordering
-Stainless Steel 304 recommended<br/>
+Stainless Steel 303 or 304 recommended<br/>
 ISO 2768 Fine tolerance<br/>
 As machined finish
 

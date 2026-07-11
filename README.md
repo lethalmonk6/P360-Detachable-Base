@@ -16,7 +16,13 @@ Stainless Steel 303 or 304 recommended<br/>
 ISO 2768 Fine tolerance<br/>
 As machined finish
 
-<img width="1200" height="1210" alt="image" src="https://github.com/user-attachments/assets/2a052321-d063-49de-ba09-12ca74556d44" />
+<img width="1200" height="1210" alt="image" src="https://github.com/user-attachments/assets/2a052321-d063-49de-ba09-12ca74556d44" /><br/>
+
+<img width="3072" height="4080" alt="image" src="https://github.com/user-attachments/assets/6ef63a73-3f56-4fb7-ba27-a4714a97124d" /><br/>
+<img width="3072" height="4080" alt="image" src="https://github.com/user-attachments/assets/199f311d-63d6-4bb5-8a17-362181aaf69e" /><br/>
+
+
+
 
 # License
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]

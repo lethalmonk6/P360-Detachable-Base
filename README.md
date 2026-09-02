@@ -13,7 +13,9 @@ Also requires a dustwasher with at least a 17mm hole diameter.
 
 # Fabrication/Ordering
 Stainless Steel 303 or 304 recommended<br/>
-ISO 2768 Fine tolerance<br/>
+Include PDF drawing when ordering<br/>
+ISO 2768 Fine general tolerance<br/>
++/-0.03mm tolerance at upper area<br/>
 As machined finish
 
 <img width=50% height=50% alt="image" src="https://github.com/user-attachments/assets/2a052321-d063-49de-ba09-12ca74556d44" /><br/>
